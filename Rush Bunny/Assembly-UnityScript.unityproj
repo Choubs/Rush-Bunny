@@ -46,6 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Colision.js" />
+     <Compile Include="Assets\Scripts\Death.js" />
      <Compile Include="Assets\Scripts\Menu\Jouer.js" />
      <Compile Include="Assets\Scripts\Menu\Quitter.js" />
      <Compile Include="Assets\Scripts\Menu\Trailer.js" />

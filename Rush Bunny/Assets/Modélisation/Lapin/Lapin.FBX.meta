@@ -46,6 +46,7 @@ ModelImporter:
     7400002: course
     7400004: jump
     9500000: //RootNode
+    11100000: //RootNode
     13700000: Group31904
   materials:
     importMaterials: 1
@@ -130,7 +131,7 @@ ModelImporter:
       name: course
       takeName: Take 001
       firstFrame: 0
-      lastFrame: 26
+      lastFrame: 25
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -289,6 +290,6 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   additionalBone: 0
   userData: 
