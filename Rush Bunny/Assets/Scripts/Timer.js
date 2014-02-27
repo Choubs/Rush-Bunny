@@ -1,6 +1,6 @@
 ﻿#pragma strict
 
-var timer: float; // set duration time in seconds in the Inspector
+static var timer: float; // set duration time in seconds in the Inspector
 
 function Update()
 {
