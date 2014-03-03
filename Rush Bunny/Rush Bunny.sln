@@ -9,6 +9,8 @@ Project("{E027C8FC-BCD9-1EED-2769-67D896DC1447}") = "Rush Bunny", "Assembly-Unit
 EndProject
 Project("{E027C8FC-BCD9-1EED-2769-67D896DC1447}") = "Rush Bunny", "Assembly-UnityScript.unityproj", "{BDBC158D-086C-FBC2-1029-74C2DE2A0948}"
 EndProject
+Project("{E027C8FC-BCD9-1EED-2769-67D896DC1447}") = "Rush Bunny", "Assembly-UnityScript-Editor.unityproj", "{3AA016D0-401E-C601-87A5-9463D1B75D11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,11 +33,15 @@ Global
 		{BDBC158D-086C-FBC2-1029-74C2DE2A0948}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDBC158D-086C-FBC2-1029-74C2DE2A0948}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDBC158D-086C-FBC2-1029-74C2DE2A0948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA016D0-401E-C601-87A5-9463D1B75D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA016D0-401E-C601-87A5-9463D1B75D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA016D0-401E-C601-87A5-9463D1B75D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA016D0-401E-C601-87A5-9463D1B75D11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																																																		GlobalSection(MonoDevelopProperties) = preSolution
+																																																																																										GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
